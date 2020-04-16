@@ -3,12 +3,12 @@
 This is README to run the ROS package created for group-assignment RWA2. 
 
 Group Members:
-    An Li
-    Andre 
-    Nakul Patel
-    Revati Naik
-    Sarvesh Thakur
-    Srujan Panuganti
+1.  An Li
+2.  Andre 
+3.  Nakul Patel
+4.  Revati Naik
+5.  Sarvesh Thakur
+6.  Srujan Panuganti
 
 
 ## **Package Name: group7_rwa2**
