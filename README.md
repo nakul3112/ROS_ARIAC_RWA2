@@ -1,9 +1,18 @@
 ## **ENPM809B: Building a Manufacturing Robot Software System: RWA-2**
 
-This is README to run the ROS package created for RWA2. 
+This is README to run the ROS package created for group-assignment RWA2. 
+
+Group Members:
+    An Li
+    Andre 
+    Nakul Patel
+    Revati Naik
+    Sarvesh Thakur
+    Srujan Panuganti
+
 
 ## **Package Name: group7_rwa2**
-This package consists of a listener (ROS Subcriber) to get the sensor/camera data from the Ariac environment on the screen. 
+This package consists of a listener (ROS Subscriber) to get the sensor/camera data from the Ariac environment on the screen, and display the sensor/camera readings using various levels of Logging in ROS(We have used ROS_INFO_STREAM in this package). 
 
 
 ## **Minimum System Requirements**
